@@ -1,6 +1,6 @@
-// https://codeforces.com/problemset/problem/71/A
+https://codeforces.com/problemset/problem/71/A
 
-// CPP SOLUTION
+
 
 #include <iostream>
 using namespace std;
@@ -18,8 +18,7 @@ int main() {
     }
 }
 
-
-// INPUT
+INPUT
 4
 word
 localization
@@ -27,7 +26,7 @@ internationalization
 pneumonoultramicroscopicsilicovolcanoconiosis
 
 
-//OUTPUT
+OUTPUT
 word
 l10n
 i18n
