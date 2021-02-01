@@ -1,4 +1,4 @@
-https://codeforces.com/problemset/problem/71/A
+// https://codeforces.com/problemset/problem/71/A
 
 
 
@@ -18,17 +18,20 @@ int main() {
     }
 }
 
-INPUT
+
+/*INPUT
+
 4
 word
 localization
 internationalization
 pneumonoultramicroscopicsilicovolcanoconiosis
+*/
 
+/*OUTPUT
 
-OUTPUT
 word
 l10n
 i18n
 p43s
-
+*/
